@@ -1,4 +1,9 @@
-# Hello, world!
-Im learning in Netology course
-06.04.2025
-10.04.2025
+# Инженер
+ Виды деятельности:
+- инженерное сопровождение строительства
+- создание трехмерных сооружений
+- документация
+  
+![worker](https://github.com/user-attachments/assets/87fc5dc1-4f9a-4484-b966-45d31bc14e0a)
+
+  
